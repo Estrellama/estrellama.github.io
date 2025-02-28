@@ -1,3 +1,12 @@
 _site/
 push.sh
 .DS_Store
+README_private.md
+.github-pages
+.jekyll-cache
+.jekyll-metadata
+.jekyll-cache
+.jekyll-metadata
+.jekyll-cache
+.jekyll-metadata
+README_private.md
