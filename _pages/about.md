@@ -35,7 +35,7 @@ I am currently a research intern at Li.Auto. My research interests lie in the fi
 
       <tr>
         <td style="padding:5pt; width:25%; vertical-align:middle">
-          <img src="images/delphi_teaser.png" width="100%" height="auto" style="object-fit:cover">
+          <img src="images/delphi_teaser.gif" width="100%" height="auto" style="object-fit:cover">
         </td>
         <td style="padding:5pt; width:75%;vertical-align:middle">
           <span class="papertitle">Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation</span>
@@ -66,7 +66,7 @@ I am currently a research intern at Li.Auto. My research interests lie in the fi
       
       <tr>
         <td style="padding:5pt; width:25%; vertical-align:middle">
-          <img src="images/bevcontrol_teaser.jpg" width="100%" height="auto" style="object-fit:cover">
+          <img src="images/bevcontrol_teaser.gif" width="100%" height="auto" style="object-fit:cover">
         </td>
         <td style="padding:5pt; width:75%;vertical-align:middle">
           <span class="papertitle">BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout</span>
