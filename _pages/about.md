@@ -35,6 +35,39 @@ I am currently a research intern at Li.Auto. My research interests lie in the fi
 
       <tr>
         <td style="padding:5pt; width:25%; vertical-align:middle">
+          <img src="images/correctad_teaser.png" width="100%" height="auto" style="object-fit:cover">
+        </td>
+        <td style="padding:5pt; width:75%;vertical-align:middle">
+          <span class="papertitle">CorrectAD: A Self-Correcting Agentic System to Improve End-to-end Planning in Autonomous Driving</span>
+          
+          <br>
+          <strong>Enhui Ma*</strong>,
+          Lijun Zhou*,
+          Tao Tang,
+          Jiahuan Zhang,
+          Junpeng Jiang,
+          Zhan Zhang,
+          Dong Han,
+          Kun Zhan,
+          Xueyang Zhang,
+          Xianpeng Lang,
+          Haiyang Sun,
+          Xia Zhou,
+          Di Lin,
+          <a href="https://www.yukaicheng.cn/">Kaicheng Yu</a>
+
+          <br>
+          <em>
+            AAAI 2026
+          </em>
+          <br>
+          <a href="https://arxiv.org/pdf/2511.13297">Paper</a>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td style="padding:5pt; width:25%; vertical-align:middle">
           <img src="images/delphi_teaser.gif" width="100%" height="auto" style="object-fit:cover">
         </td>
         <td style="padding:5pt; width:75%;vertical-align:middle">
@@ -51,7 +84,7 @@ I am currently a research intern at Li.Auto. My research interests lie in the fi
           Peng Jia,
           Xianpeng Lang,
           Haiyang Sun,
-          <a href="https://dilincv.github.io/">Di Lin</a>,
+          Di Lin,
           <a href="https://www.yukaicheng.cn/">Kaicheng Yu</a>
 
           <br>
